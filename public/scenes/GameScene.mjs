@@ -123,6 +123,7 @@ export class GameScene extends Phaser.Scene {
         this.createZone(890, 70, 94, 15, 'Chingford');
         this.createZone(675, 160, 110, 15, 'WoodGreen');
         this.createZone(617, 313, 125, 15, 'CamdenTown');
+        this.createZone(1200, 210, 60, 15, 'Romford');
     }
 
     createZone(x, y, w, h, texture) {

@@ -63,6 +63,7 @@ export class LobbyScene extends Phaser.Scene {
         this.load.image('Mitcham', './assets/keys/Mitcham.jpg');
         this.load.image('Richmond', './assets/keys/Richmond.jpg');
         this.load.image('Wimbledon', './assets/keys/Wimbledon.jpg');
+        this.load.image('Romford', './assets/keys/Romford.jpg');
     }
 
     createWelcomeContainer() {
